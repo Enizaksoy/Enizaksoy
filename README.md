@@ -71,26 +71,6 @@
 
 ---
 
-### Tech Stack
-
-**SD-WAN:** Versa FlexVNF, Versa Director, Versa Analytics, Cisco SD-WAN (Viptela), IPSec/GRE Overlays
-
-**Networking:** Cisco NX-OS, NVIDIA Cumulus, BGP, OSPF, EVPN/VXLAN, RDMA/RoCEv2, PFC/ECN, LISP, DMVPN
-
-**AI Infrastructure:** NVIDIA V100, Mellanox ConnectX, NCCL, MPI, PyTorch DDP, SLURM
-
-**Monitoring:** Grafana, Prometheus, SNMP, Streaming Telemetry
-
-**Automation:** Python, Ansible, Netmiko, Paramiko, Claude Code
-
----
-
-### Certifications
-
-**CCIE #23970** — Cisco Certified Internetwork Expert
-
----
-
 ### All Repositories
 
 | Repository | Description |

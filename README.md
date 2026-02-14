@@ -1,18 +1,33 @@
-# Hi, I'm Eniz Aksoy
+### Eniz Aksoy
+**CCIE #23970 | Senior Network Architect | SD-WAN | AI/ML Infrastructure**
 
-**CCIE #23970 | Senior Network Architect | AI/ML Infrastructure**
+8+ years designing and deploying SD-WAN solutions. Now building AI GPU clusters and data center networks — from bare metal to distributed training.
 
-Building AI GPU clusters and data center networks — from bare metal to distributed training.
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Enizaksoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enizaksoy&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ---
 
 ### What I Do
 
+- **8+ years in SD-WAN** — Versa Networks (FlexVNF, Director, Analytics), Cisco SD-WAN, enterprise deployments
 - Design and build **RDMA-capable AI training clusters** with lossless Ethernet (RoCEv2, PFC/ECN)
 - Architect **Spine-Leaf data center fabrics** with BGP EVPN VXLAN
 - Integrate **multi-vendor networks** (Cisco, NVIDIA Cumulus, Versa SD-WAN)
 - Monitor everything with **Prometheus + Grafana** dashboards
 - Automate with **Python, Ansible, and Claude Code**
+
+---
+
+### RDMA Cluster Monitoring — Grafana Dashboard
+
+> Live PFC/ECN/CNP monitoring from my AI GPU cluster — tracking 40M+ ECN packets and 133M+ pause frames
+
+![RDMA Cluster Monitoring](grafana-rdma-monitoring.jpg)
 
 ---
 
@@ -49,7 +64,9 @@ Building AI GPU clusters and data center networks — from bare metal to distrib
 
 ### Tech Stack
 
-**Networking:** Cisco NX-OS, NVIDIA Cumulus, Versa SD-WAN, BGP, OSPF, EVPN/VXLAN, RDMA/RoCEv2, PFC/ECN, LISP
+**SD-WAN:** Versa FlexVNF, Versa Director, Versa Analytics, Cisco SD-WAN (Viptela), IPSec/GRE Overlays
+
+**Networking:** Cisco NX-OS, NVIDIA Cumulus, BGP, OSPF, EVPN/VXLAN, RDMA/RoCEv2, PFC/ECN, LISP, DMVPN
 
 **AI Infrastructure:** NVIDIA V100, Mellanox ConnectX, NCCL, MPI, PyTorch DDP, SLURM
 
@@ -84,4 +101,3 @@ Building AI GPU clusters and data center networks — from bare metal to distrib
 ---
 
 *Built with real hardware, real packets, real results.*
-

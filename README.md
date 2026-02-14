@@ -21,7 +21,7 @@
 
 ### What I Do
 
-- **8+ years in SD-WAN** — Versa Networks (FlexVNF, Director, Analytics), Cisco SD-WAN, enterprise deployments
+- **8+ years in SD-WAN** — enterprise design, deployment, and operations
 - Design and build **RDMA-capable AI training clusters** with lossless Ethernet (RoCEv2, PFC/ECN)
 - Architect **Spine-Leaf data center fabrics** with BGP EVPN VXLAN
 - Integrate **multi-vendor networks** (Cisco, NVIDIA Cumulus, Versa SD-WAN)

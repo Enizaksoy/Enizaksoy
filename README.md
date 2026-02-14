@@ -6,8 +6,15 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enizaksoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enizaksoy&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <a href="https://github.com/Enizaksoy">
+    <img src="https://github-readme-stats.vercel.app/api?username=Enizaksoy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Enizaksoy">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enizaksoy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="Top Languages" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enizaksoy&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
 ---
@@ -27,7 +34,9 @@
 
 > Live PFC/ECN/CNP monitoring from my AI GPU cluster — tracking 40M+ ECN packets and 133M+ pause frames
 
-![RDMA Cluster Monitoring](grafana-rdma-monitoring.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Enizaksoy/Enizaksoy/main/grafana-rdma-monitoring.jpg" alt="RDMA Cluster Monitoring - Grafana Dashboard" width="100%" />
+</p>
 
 ---
 
